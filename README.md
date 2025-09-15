@@ -1,2 +1,4 @@
 # eLearn-test
 This is a platform for studying a particular course and attempting the test based on the course.
+
+I have given five courses with a data of the course like in five pages you need to move page after page to attempt the test, the courses and the details of the courses and question and answers for the test were given dynamically but sorry to say that i am unable provide those database pics as my database server mysql is refershing it self and not accepting the port number which was already used for once so every time when i need to check the execution of the project i will change the port number in every page where it was present and i create the new table for the database so right now i can not provide the database details it mostly basedon the dynamic method it was done by using Php, HTML, css it is a part of our Server Side Scripting lab project.
